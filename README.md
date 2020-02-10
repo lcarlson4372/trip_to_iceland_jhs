@@ -4,5 +4,5 @@ this contains:
 
 -todolist
 
--itinerary
+-itinerar
 
