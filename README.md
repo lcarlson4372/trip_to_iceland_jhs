@@ -12,3 +12,4 @@ this contains:
 
 -itinerar
 
+suggest a camp stove be added to a camping list
